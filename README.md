@@ -1,7 +1,5 @@
 # repo-style-guide
-repo-style-guide
-
-This is a template repository to capture some design and style guide consistency across repositories.  It is getting messy and I want to get more consistent.
+This is a template repository to capture some design and style guide consistency across repositories.  
 
 ## TODOs:
 - Objetcive: Sweep all repos; make default descriptions readable
